@@ -1,0 +1,35 @@
+{
+    "people":[
+        {
+            "url":"",
+            "name":"Karen Smith",
+            "object":"西安OCAT美术馆馆长"
+        },
+        {
+            "url":"",
+            "name":"邱志杰",
+            "object":"中央美术学院教授、实验艺术学院院长、中国美院跨媒体艺术学院教授"
+        },
+        {
+            "url":"",
+            "name":"李振华",
+            "object":"实践主要围绕策展、艺术创作和项目管理"
+        },
+        {
+            "url":"",
+            "name":"伍颖瑜",
+            "object":"《亚太艺术》的编辑和出版人"
+        },
+        {
+            "url":"",
+            "name":"MarianoSardon",
+            "object":"阿根廷特雷斯德费布雷罗国立大学教受、主席"
+        },
+        {
+            "url":"",
+            "name":"Martin Honzik",
+            "object":"奥地利电子艺术中心馆长"
+        }
+    ]
+}
+
